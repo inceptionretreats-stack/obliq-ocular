@@ -2,6 +2,8 @@
 
 [Live website](https://obliq-ocular.vercel.app/)
 
+[Source code on GitHub](https://github.com/inceptionretreats-stack/obliq-ocular)
+
 A standalone HTML website by Digital Hammerr. All website code is in `index.html`.
 
 ## Deployment
